@@ -1,0 +1,11 @@
+/* Inserta tu codigo aqui */
+
+#imgSemilla{
+    background-image: url("img/semilla.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+    color:white;
+} 
+
